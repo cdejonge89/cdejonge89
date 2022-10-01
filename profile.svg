@@ -6,24 +6,17 @@
                 color: red;
                 animation: mymove 2s infinite;
             }
-            .white {
-                color: white;
-            }
-
 
             @keyframes mymove {
                 from {
                     color: red;
                 }
                 to {
-                    color: white;
+                    color: yellow;
                 }
             }
             </style>
-
-            
             <h1>Howdy, I'm Lee DeJonge</h1>
-
         </div>
     </foreignObject>
 </svg>
