@@ -13,7 +13,7 @@
 
             @keyframes mymove {
                 from {
-                    color: blanched-almond;
+                    color: red;
                 }
                 to {
                     color: white;
