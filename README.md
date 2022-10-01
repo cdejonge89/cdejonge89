@@ -1,25 +1,21 @@
 
 <div align="center">
-    <img src="profile.svg" width="400" height="400" alt="css-in-readme
-    <p> I'm a full stack developer looking forward to expanding my knowledge in the tech world </p>
-    <p> How to reach me **cdejonge89@gmail.com** </p>
-    <p> Fun fact: **I love to knit** </p>
+    <img src="profile.svg" width="400" height="400" alt="css-in-readme">
+    <img align="right" alt="Coding" width="400" src="yellowStone.jpeg" alt="I'm enjoying YellowStone">
 </div>
 
-<h1 align="left">Howdy, I'm Lee DeJonge</h1>
 
-<img align="right" alt="Coding" width="400" src="yellowStone.jpeg" alt="I'm enjoying YellowStone">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cdejonge89&label=Profile%20views&color=0e75b6&style=flat" alt="cdejonge89" /> </p>
 
-<p>I'm a full stack developer looking forward to expanding my knowledge in the tech world</p>
+
+<p>I'm a full stack developer looking to expand my knowledge in the tech world</p>
 <p>How to reach me **cdejonge89@gmail.com**</p>
 <p>Fun fact: **I love to knit**</p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/christina dejonge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina dejonge" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lee-dejonge-68b514225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina dejonge" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ZJGk38EX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZJGk38EX" height="30" width="40" /></a>
 </p>
 
