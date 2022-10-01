@@ -7,6 +7,10 @@
                 animation: mymove 2s infinite;
             }
 
+            .white {
+                color: white;
+            }
+
             @keyframes mymove {
                 from {
                     color: 91C13B;
@@ -17,6 +21,8 @@
             }
             </style>
             <h1>Howdy, I'm Lee DeJonge</h1>
+            <h3 class="white" >I'm currently enrolled in Coding Dojo</h3>
+
         </div>
     </foreignObject>
 </svg>
