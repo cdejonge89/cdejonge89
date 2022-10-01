@@ -6,9 +6,15 @@
     <p> Fun fact: **I love to knit** </p>
 </div>
 
+<h1 align="left">Howdy, I'm Lee DeJonge</h1>
+
 <img align="right" alt="Coding" width="400" src="yellowStone.jpeg" alt="I'm enjoying YellowStone">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cdejonge89&label=Profile%20views&color=0e75b6&style=flat" alt="cdejonge89" /> </p>
 
+<p>I'm a full stack developer looking forward to expanding my knowledge in the tech world</p>
+<p>How to reach me **cdejonge89@gmail.com**</p>
+<p>Fun fact: **I love to knit**</p>
 
 
 <h3 align="left">Connect with me:</h3>
