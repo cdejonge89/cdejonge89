@@ -3,13 +3,13 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: 91C13B;
+                color: green;
                 animation: mymove 2s infinite;
             }
 
             @keyframes mymove {
                 from {
-                    color: 91C13B;
+                    color: green;
                 }
                 to {
                     color: white;
