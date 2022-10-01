@@ -7,7 +7,7 @@
                 animation: mymove 2s infinite;
             }
 
-            .white {
+            h3 {
                 color: white;
             }
 
@@ -21,7 +21,7 @@
             }
             </style>
             <h1>Howdy, I'm Lee DeJonge</h1>
-            <h3 class="white" >I'm currently enrolled in Coding Dojo</h3>
+            <h3>I'm currently enrolled in Coding Dojo</h3>
 
         </div>
     </foreignObject>
