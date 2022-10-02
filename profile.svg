@@ -1,29 +1,110 @@
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none"  width="900" height="800" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-                .container {
-                    color: white;
+                .header {
                     text-align: center;
+                    background-color: black;
+                    color: white;
+                }
+
+                .container {
+                    text-align: left;
+                    background-color: black;
+                    display: flex;
                 }
 
                 h1 {
-                    color: green;
-                    animation: mymove 2s infinite;
+                    color: yellowGreen;
+                    animation: mymove 3s infinite;
                 }
                 @keyframes mymove {
                     from {
-                        color: green;
+                        color: yellowGreen;
                     }
                     to {
-                        color: white;
+                        color: mediumAquaMarine;
                     }
+                }
+
+                .img {
+                    height: 400px;
+                    width: 400px;
+                    transition: width 1s, height 1s;
+                }
+
+                .img:hover {
+                    width: 450px;
+                    height: 450px;
+                }
+
+                .scroll {
+                    background: lightBlue;
+                    height: 120px;
+                    width: 300px;
+                    border: 1 px solid black;
+                    overflow: auto;
+                    border-radius: 10px;
+                    padding: 10px;
+                }
+
+                .lang {
+                    height: 40px;
+                    width: 40px;
+                    margin: 5px;
                 }
             </style>
 
-            <div class="container">
-                    <h1>Howdy, I'm Lee DeJonge</h1>
-                    <h3>I'm currently enrolled in Coding Dojo</h3>
+            
+            <div class="header">
+                <h1>Howdy, I'm Lee DeJonge</h1>
+                <h3>I'm currently enrolled in Coding Dojo</h3>
+
+                <div class="container">
+
+                    <div class="left">
+                    <ul>
+                        <li>I'm a full stack developer looking to expand my knowledge in the tech world.</li>
+                        <li>How to reach me: cdejonge89@gmail.com</li>
+                        <li>Fun fact: I love to knit, and most of my wardrobe is handmade</li>
+                    </ul>
+
+                    <h4>Languages and Tools</h4>
+                        <p class="scroll">
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" />
+                        <img class="lang" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" />
+                        <img class="lang" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" /> 
+                        <img class="lang" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" />
+                        <img class="lang" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" />
+                        <img class="lang" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" />
+                        <img class="lang" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" />
+                        </p>
+                        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdejonge89&show_icons=true&locale=en&layout=compact" alt="cdejonge89" /></p>
+
+                        <h3>Connect with me:</h3>
+                        <p>
+                            <a href="https://www.linkedin.com/in/lee-dejonge-68b514225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christina dejonge" height="30" width="40" /></a>
+                            <a href="https://discord.gg/https://discord.gg/ZJGk38EX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ZJGk38EX" height="30" width="40" /></a>
+                        </p>
+                    </div>
+
+                    
+
+                    <div classt="right">
+                        <img class="img" src="https://images.pexels.com/photos/3490887/pexels-photo-3490887.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="put yellowStone here">
+                    </div>
+                
+                </div>
+                <h1>Projects</h1>
             </div>
         </div>
     </foreignObject>
