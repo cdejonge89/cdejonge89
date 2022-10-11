@@ -27,10 +27,13 @@
 
 <h1 align="left">Project Preview</h1>
 
+<h2>Escape Project: </h2> <a href="https://github.com/cdejonge89/Escape">Git Hub Link</a>
+
+
 https://user-images.githubusercontent.com/107905648/193390374-c005a550-33a6-47f8-a232-907f1aaeb2e9.mp4
 
 
-
+<h2>Digital Library Project</h2>
 
 
 https://user-images.githubusercontent.com/107905648/195143760-c1fa7760-cf99-4f3b-a280-59b45f1cc6b3.mp4
