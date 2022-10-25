@@ -27,6 +27,12 @@
 
 <h1 align="left">Project Preview</h1>
 
+
+<h2><a href="https://github.com/cdejonge89/Sidewalk-Sale">Sidewalk Sale Project</a></h2>
+
+https://user-images.githubusercontent.com/107905648/197859153-dd9820dc-9658-4609-a2e1-00fffc18b9e7.mp4
+
+
 <h2><a href="https://github.com/cdejonge89/Escape">Escape Project</a></h2>
 
 
@@ -37,6 +43,12 @@ https://user-images.githubusercontent.com/107905648/193390374-c005a550-33a6-47f8
 
 
 https://user-images.githubusercontent.com/107905648/195143760-c1fa7760-cf99-4f3b-a280-59b45f1cc6b3.mp4
+
+
+
+
+
+
 
 
 
